@@ -29,7 +29,7 @@ def count_total_lines(base_folder):
     return total_lines
 
 # Update this path to your folder
-folder_path = r'C:/Users/FaullS/.aws/s3Downloads-4.9MB-or-less'
+folder_path = r'C:/Users/FaullS/.aws/s3Downloads-2.5-to-4.9MB'
 
 total = count_total_lines(folder_path)
 print("\nTotal lines across all files:", total)

@@ -1,5 +1,5 @@
 # Input file
-$inputFile = "accounts-v3.txt"
+$inputFile = "unique_accounts.txt"
 
 # DynamoDB table names
 $sourceTable = "usgmstrds-v1-p1-account"
